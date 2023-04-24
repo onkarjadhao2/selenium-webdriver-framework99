@@ -1,0 +1,1 @@
+{"uuid":"71300c41-e1a1-4c2f-9a46-6b7bce6ad9ae","name":"cucumberbdd_API.POST_API_Automation","children":["0996836c-3a77-4387-8610-0814143c47e6"],"befores":[{"name":"postdata","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1680172735217,"stop":1680172735913}],"afters":[],"start":1680172735165,"stop":1680172738749}
